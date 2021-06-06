@@ -1,0 +1,1 @@
+This is a git test project for Linux Virtual Machine usage
